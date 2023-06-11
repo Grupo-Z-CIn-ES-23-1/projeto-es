@@ -12,7 +12,7 @@
     <i>Por: <a href="https://github.com/luucaslfs">Lucas Florêncio</a>, <a href="http://teste.com">Alex Ramos</a>, [Inserir nomes]</i>
     <br>
     <br>
-    <a href="https://teste.com"><strong>Link 1 (Principal)&raquo;</strong></a>
+    <a href="https://github.com/orgs/Grupo-Z-CIn-ES-23-1/projects/1"><strong>Quadro Kanban (Backlog)&raquo;</strong></a>
     <br>
     <br>
     <a href="http://teste.com">Link 2</a>
