@@ -9,15 +9,15 @@
     <i>[Inserir descrição breve do projeto]</i>
     <br>
     <br>
-    <i>Por: <a href="https://github.com/luucaslfs">Lucas Florêncio</a>, <a href="http://teste.com">Alex Ramos</a>, [Inserir nomes]</i>
+    <i>Por: <a href="https://github.com/luucaslfs">Lucas Florêncio</a> (Tech Lead/Scrum Master), ..., ...</i>
     <br>
     <br>
     <a href="https://github.com/orgs/Grupo-Z-CIn-ES-23-1/projects/1"><strong>Quadro Kanban (Backlog)&raquo;</strong></a>
     <br>
     <br>
-    <a href="http://teste.com">Link 2</a>
+    <a href="https://github.com/Grupo-Z-CIn-ES-23-1/front-end">Front End</a>
     &middot;
-    <a href="https://teste.com">Link 3</a>
+    <a href="https://github.com/Grupo-Z-CIn-ES-23-1/back-end">Back End</a>
     &middot;
     <a href="https://teste.com">Link 4</a>
   </p>
