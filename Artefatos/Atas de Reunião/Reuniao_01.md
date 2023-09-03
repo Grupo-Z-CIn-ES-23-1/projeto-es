@@ -1,4 +1,4 @@
-#Previsão de Enchentes
+# Previsão de Enchentes
 
 
 ## Ata de Reunião de Definição de Escopo
@@ -29,7 +29,7 @@ Ação                                                         | Responsável
 Criar e organizar os repositórios (front, back e artefatos   | Lucas
 Criar e organizar o backlog e o quadro kanban                | Lucas  
 
-###Informações Adicionais
+### Informações Adicionais
 * Ficou definido que fariamos a divisão entre front e back.
 * Lucas fica com o back-end, e Viktoria e Alexandre com o front-end.
 * Apesar das responsabilidades divididas, a intenção é que todos trabalhem colaborativamente nos dois projetos.
