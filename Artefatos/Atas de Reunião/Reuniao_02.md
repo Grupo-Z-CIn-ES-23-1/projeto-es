@@ -1,4 +1,4 @@
-#Previsão de Enchentes
+# Previsão de Enchentes
 
 
 ## Ata de Reunião de Primeiros Passos do Projeto
@@ -32,5 +32,5 @@ Criar histórias de usuário e adicionar em nosso quadro kanban| Lucas
 Designar primeiras tarefas ao time                           | Lucas 
 Criar base do back-end e do front-end                        | Lucas
 
-###Informações Adicionais
+### Informações Adicionais
 * O quadro kanban/backlog foi atualizado com as tarefas gerenciais e técnicas do projeto.
