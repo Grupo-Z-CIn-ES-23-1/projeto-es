@@ -1,0 +1,41 @@
+name: Create Issues from MD
+
+on:
+  push:
+    paths:
+      - "./Artefatos/Histórias de Usuário/User_Stories.md"
+
+jobs:
+  create-issues:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Create Issues from MD
+        run: |
+          const fs = require('fs');
+          const { Octokit } = require("@octokit/rest");
+
+          const octokit = new Octokit({ auth: process.env.GH_TOKEN });
+
+          const content = fs.readFileSync('./Artefatos/Histórias de Usuário/User_Stories.md', 'utf8');
+          const stories = content.split('\n\n\n').slice(2); // Remove title and "Histórias de Usuário" section
+
+          for (let story of stories) {
+            const title = story.split('\n')[1].replace('Como', '').trim();
+            octokit.issues.create({
+              owner: Grupo-Z-CIn-ES-23-1,
+              repo: projeto-es,
+              title: title,
+              body: story
+            });
+          }
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
