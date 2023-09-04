@@ -3,7 +3,7 @@ name: Create Issues from MD
 on:
   push:
     paths:
-      - "./Artefatos/Histórias de Usuário/User_Stories.md"
+      - "Artefatos/Histórias de Usuário/User_Stories.md"
 
 jobs:
   create-issues:
