@@ -1,6 +1,6 @@
 # Previsão de Enchentes
 
-## História dos Usuários
+## Histórias de Usuários
 
 ```
 Como usuario,
@@ -38,3 +38,20 @@ Eu gostaria de implementar testes de unidade e testes de integração,
 Para garantir a estabilidade e confiabilidade do sistema.
 ```
 
+```
+Como um desenvolvedor,
+Eu gostaria de integrar facilmente com APIs meteorológicas e de imagens de satélite,
+Para obter dados atualizados e precisos para nossas previsões.
+```
+
+```
+Como um usuário,
+Eu gostaria de acessar informações educativas sobre enchentes e prevenção,
+Para estar melhor informado e preparado.
+```
+
+```
+Como um usuário,
+Eu gostaria de visualizar dados meteorológicos atuais,
+Para entender o clima atual na minha região.
+```
