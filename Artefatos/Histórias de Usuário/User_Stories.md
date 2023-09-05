@@ -1,6 +1,6 @@
 # Previsão de Enchentes
 
-## Histórias de Usuários
+## Histórias de Usuário
 
 ```
 Como usuario,
