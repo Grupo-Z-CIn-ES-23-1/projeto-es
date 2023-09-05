@@ -10,7 +10,6 @@ Data         | Local
 
 ### Participantes
 * Lucas Florencio  
-* Alexandre
 * Viktoria
 * Alex
 
@@ -26,7 +25,7 @@ Data         | Local
 ### Ações a serem tomadas
 Ação                                                         | Responsável   
 ------------                                                 | ------------- 
-Criar e organizar os repositórios (front, back e artefatos   | Lucas
+Criar e organizar os repositórios (front, back e artefatos)   | Lucas
 Criar e organizar o backlog e o quadro kanban                | Lucas  
 
 ### Informações Adicionais
