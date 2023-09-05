@@ -51,6 +51,18 @@ Para estar melhor informado e preparado.
 ```
 
 ```
+Como um desenvolvedor,
+Eu gostaria de fazer deploy da aplicação com uso do Github Actions,
+Para facilitar o processo de deploy e automatizar o repositório para Continuous Delivery.
+```
+
+```
+Como um desenvolvedor,
+Eu gostaria de rodar os testes da aplicação antes de cada push com uso do Github Actions,
+Para facilitar o processo de push e PR`s, preparando o repositório para Continuous Integration.
+```
+
+```
 Como um usuário,
 Eu gostaria de visualizar dados meteorológicos atuais,
 Para entender o clima atual na minha região.
