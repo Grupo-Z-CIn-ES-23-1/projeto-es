@@ -53,13 +53,13 @@ Para estar melhor informado e preparado.
 ```
 Como um desenvolvedor,
 Eu gostaria de fazer deploy da aplicação de forma automatizada, numa pipeline,
-Para facilitar o processo de deploy e automatizar o repositório para Continuous Delivery.
+Para implementar Continuous Delivery.
 ```
 
 ```
 Como um desenvolvedor,
 Eu gostaria de rodar os testes da aplicação antes de cada push com uso do Github Actions,
-Para facilitar o processo de push e PR`s, preparando o repositório para Continuous Integration.
+Para facilitar o processo de push e PR`s, implementando Continuous Integration.
 ```
 
 ```
