@@ -15,11 +15,9 @@
     <a href="https://github.com/orgs/Grupo-Z-CIn-ES-23-1/projects/1"><strong>Quadro Kanban (Backlog)&raquo;</strong></a>
     <br>
     <br>
-    <a href="https://github.com/Grupo-Z-CIn-ES-23-1/front-end">Front End</a>
+    <a href="https://github.com/Grupo-Z-CIn-ES-23-1/front-end">Repositório Front End</a>
     &middot;
-    <a href="https://github.com/Grupo-Z-CIn-ES-23-1/back-end">Back End</a>
-    &middot;
-    <a href="https://teste.com">Link 4</a>
+    <a href="https://github.com/Grupo-Z-CIn-ES-23-1/back-end">Repositório Back End</a>
   </p>
 </p>
 
