@@ -52,7 +52,7 @@ Para estar melhor informado e preparado.
 
 ```
 Como um desenvolvedor,
-Eu gostaria de fazer deploy da aplicação com uso do Github Actions,
+Eu gostaria de fazer deploy da aplicação de forma automatizada, numa pipeline,
 Para facilitar o processo de deploy e automatizar o repositório para Continuous Delivery.
 ```
 
@@ -67,3 +67,5 @@ Como um usuário,
 Eu gostaria de visualizar dados meteorológicos atuais,
 Para entender o clima atual na minha região.
 ```
+
+
