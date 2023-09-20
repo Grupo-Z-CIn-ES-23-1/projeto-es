@@ -30,4 +30,5 @@
 O projeto se trata de uma plataforma para prevenção de enchentes.
 O usuário pode se cadastrar no sistema, fazer login, buscar por uma localização e visualizar informações meteorológicas daquela região.
 
-
+# DEMO
+Você pode visualizar um video demonstração do projeto neste link: https://clipchamp.com/watch/AgskeEYKS94
