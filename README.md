@@ -6,10 +6,10 @@
   <h3 align="center">Projeto de Engenharia de Software - 23.1</h3>
 
   <p align="center">
-    <i>[Inserir descrição breve do projeto]</i>
+    <i>[Plataforma para previsão de enchentes, com intuito de informar o usuário sobre níveis dos rios e meteorologia de sua região]</i>
     <br>
     <br>
-    <i>Por: <a href="https://github.com/luucaslfs">Lucas Florêncio</a> (Tech Lead/Scrum Master), ..., ...</i>
+    <i>Por: <a href="https://github.com/luucaslfs">Lucas Florêncio</a> (Tech Lead / Scrum Master / Full Stack Developer)</i>
     <br>
     <br>
     <a href="https://github.com/orgs/Grupo-Z-CIn-ES-23-1/projects/1"><strong>Quadro Kanban (Backlog)&raquo;</strong></a>
@@ -22,7 +22,10 @@
 </p>
 
 # Sobre o projeto
-[Em breve...]
+O projeto se trata de uma plataforma para prevenção de enchentes.
+O usuário pode se cadastrar no sistema, fazer login, buscar por uma localização e visualizar informações meteorológicas daquela região.
 
-# Instruções para rodar o projeto
-[Em breve...]
+# Informações detalhadas
+Você pode encontrar informações detalhadas sobre o andamento do projeto neste link: https://github.com/orgs/Grupo-Z-CIn-ES-23-1/projects/1
+
+
